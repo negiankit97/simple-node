@@ -1,0 +1,20 @@
+{
+  "name": "simple-node",
+  "version": "1.0.0",
+  "description": "Sample node starter for testing CI build using Travis CI.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/negiankit97/simple-node.git"
+  },
+  "author": "Ankit Negi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/negiankit97/simple-node/issues"
+  },
+  "homepage": "https://github.com/negiankit97/simple-node#readme"
+}
